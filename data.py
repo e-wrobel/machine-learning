@@ -1,0 +1,50 @@
+data_map = {
+    "Mickiewicz": [
+        "https://wolnelektury.pl/media/book/txt/pan-tadeusz.txt",
+        "https://wolnelektury.pl/media/book/txt/dziady-dziady-widowisko-czesc-i.txt",
+        "https://wolnelektury.pl/media/book/txt/dziady-dziadow-czesci-iii-ustep-do-przyjaciol-moskali.txt",
+        "https://wolnelektury.pl/media/book/txt/ballady-i-romanse-pani-twardowska.txt",
+        "https://wolnelektury.pl/media/book/txt/ballady-i-romanse-powrot-taty.txt",
+        "https://wolnelektury.pl/media/book/txt/ballady-i-romanse-switez.txt",
+        "https://wolnelektury.pl/media/book/txt/dziady-dziady-poema-dziady-czesc-iv.txt",
+    ],
+    "Sienkiewicz": [
+        "https://wolnelektury.pl/media/book/txt/quo-vadis.txt",
+        "https://wolnelektury.pl/media/book/txt/sienkiewicz-we-mgle.txt",
+        "https://wolnelektury.pl/media/book/txt/potop-tom-pierwszy.txt",
+        "https://wolnelektury.pl/media/book/txt/potop-tom-drugi.txt",
+        "https://wolnelektury.pl/media/book/txt/potop-tom-trzeci.txt",
+    ],
+    "Orzeszkowa": [
+        "https://wolnelektury.pl/media/book/txt/orzeszkowa-kto-winien.txt",
+        "https://wolnelektury.pl/media/book/txt/nad-niemnem-tom-pierwszy.txt",
+        "https://wolnelektury.pl/media/book/txt/nad-niemnem-tom-drugi.txt",
+        "https://wolnelektury.pl/media/book/txt/nad-niemnem-tom-trzeci.txt",
+        "https://wolnelektury.pl/media/book/txt/gloria-victis-dziwna-historia.txt",
+        "https://wolnelektury.pl/media/book/txt/z-pozogi.txt",
+        "https://wolnelektury.pl/media/book/txt/pani-dudkowa.txt",
+        "https://wolnelektury.pl/media/book/txt/dymy.txt",
+        "https://wolnelektury.pl/media/book/txt/syn-stolarza.txt",
+        "https://wolnelektury.pl/media/book/txt/dobra-pani.txt",
+        "https://wolnelektury.pl/media/book/txt/cnotliwi.txt",
+        "https://wolnelektury.pl/media/book/txt/kilka-slow-o-kobietach.txt",
+        "https://wolnelektury.pl/media/book/txt/patryotyzm-i-kosmopolityzm.txt",
+        "https://wolnelektury.pl/media/book/txt/julianka.txt",
+    ],
+    "Prus": [
+        "https://wolnelektury.pl/media/book/txt/lalka-tom-drugi.txt",
+        "https://wolnelektury.pl/media/book/txt/lalka-tom-pierwszy.txt",
+        "https://wolnelektury.pl/media/book/txt/antek.txt",
+        "https://wolnelektury.pl/media/book/txt/katarynka.txt",
+        "https://wolnelektury.pl/media/book/txt/prus-anielka.txt",
+        "https://wolnelektury.pl/media/book/txt/prus-placowka.txt",
+
+    ],
+    "Reymont": [
+        "https://wolnelektury.pl/media/book/txt/ziemia-obiecana-tom-pierwszy.txt",
+        "https://wolnelektury.pl/media/book/txt/chlopi-czesc-pierwsza-jesien.txt",
+        "https://wolnelektury.pl/media/book/txt/reymont-chlopi-zima.txt",
+        "https://wolnelektury.pl/media/book/txt/chlopi-czesc-trzecia-wiosna.txt",
+        "https://wolnelektury.pl/media/book/txt/chlopi-czesc-czwarta-lato.txt",
+    ]
+}
